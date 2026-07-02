@@ -1,58 +1,88 @@
 # Hello You 👋
 
-A little about me and what I'm doing right now, sit back and enjoy some chai while you read :) 
+A little about me and what I'm doing right now, sit back and enjoy some chai while you read :)
 
-Welcome to my GitHub profile, I'm currently going through a process of revising my digital footprint as a developer. That means I'm currently rebuilding my developer [blog](https://mobeenaftab.com), updating my GitHub profile by deleting unused repositories, highlighting my best work and my LinkedIn.
+Welcome to my GitHub profile, I'm currently going through a process of revising my digital footprint as a developer. That means I'm currently rebuilding my developer [blog](https://mobeenaftab.com), updating my GitHub profile by deleting unused repositories, highlighting my best work and posting more frequently on LinkedIn.
 
-Why? You're asking, I've got a few reasons:
-1. I've been so busy working, I haven't really given my digital footprint as a software developer as much attention as it deserves. I'm taking some time to fix that now.
-  2. I have a plan to progressively continue my professional development by building larger, more complex projects, expanding my technical expertise by going into depth building production ready applications while working with different frameworks and libraries.
-  3. I want to use my online presence to properly showcase my talent, I want to give myself goals to reach, I want to collaborate more, while I'm doing that I want to take you on the same journey with me by documenting it online.
-  4. I have a never ending yearning to tinker with things, I'm always getting ideas that I jot into my second brain obsidian, my curiosity peaks and I have a burning desire to challenge myself, I don't just want to be doing the same things I do at work all the time, I'll be perusing other computer science topics I'm passionate about. With this declaration, I'm holding myself to account to bring my ideas into reality. I'm going to write those articles, make those tutorials, build those projects.
-  5. Every job I've had I've always been good with keeping detailed notes, day to day journals working as a developer, noting what I learned, bugs I solved, triage strategies and so forth. Now I want to start creating content around software development, I don't just want to build handholding guides, I want to prepare junior devs for what really happens day to day, thinking like a seasoned developer by sharing my experience, how to become a valuable member of the team while working in a business environment.
-  6. I want to start contributing to open source projects I use more frequently and collaborating on projects for fun. I miss running the Game Dev Society, volunteering at code camps like coder dojo and Scott Logic events.  If you think you have something going I might be interested in, feel free to send me a message. 
-  7. I'm going to use my developer blog and other Social media platforms to document all of the above. 
+I've written a longer, more personal [article](https://mobeenaftab.uk/about) describing what's going through my mind after working for five years and what I now hope to achieve.
 
-I've written a longer, more personal article (coming soon!) describing what's going through my mind after working for five years and what I now hope to achieve.
+TL;DR I want to share my work experience with other devs, pursue non work related topics I'm passionate about, collaborate with others, contribute to open source all while documenting everything on my blog and other social media platforms.
 
-TL;DR Share my work experience with other devs, pursue non work related topics I'm passionate about, collaborate with others, contribute to open source all while documenting everything on my blog and other social media platforms. 
+# Summary at a Glance
 
-## Professional Experience 
-Currently, I am a Senior Full Stack Developer, most of my professional experience has been within the JS/TS ecosystem, primarily working with small to mid-size companies. It was never intentional to always work at start-ups like environments, however I have loved the experience so far. The fast pace environments, the juggling of responsibilities, the release rush, It's fantastic. These days, I'm more focused on the backend aspect of web development.
+## Primary Languages (5+ Years)
 
-I'm not the kind of person to chase fancy titles, I like my work to be interesting, I like having agency, to have ownership, responsibilities and being able to instantly collaborate across teams without too much red tape. 
+This is where I'm strongest, my bread and butter for the past six years.
 
-I've worked with all the major JS frameworks and libraries, most of my personal project tech stacks mirror that. When I start a new role, I always mirror the tech stack they use to build something on the side so I can quickly become a valuable member to the team pushing tickets across the board.
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 
-## What I want To Learn
-I have been keeping an eye on .NET, Kotlin and Rust, I've got different reasons for each and while I've played about with them, I would love to daily drive them professionally.
+## Secondary Languages
 
-## For Fun
-Recently, I've been playing around with Raylib (C++ graphics library) and Godot a lot. I started programming when I was a teen because I was interested in learning how to make games. I started with Unity3D back then and pursued my interests further at university, I joined the Game development Society (as well as the Comp and Data Societies) and led it for two years, even led a team to participate in the Global Game Jam.
+Used the following when required for contracts.
 
-Recently I've been feeling a burning desire to get back into making games again, playing around with low level libraries, trying to make small MVPs, implementing features I like in other games. You need to pull from a wide breadth of disciplines from data structures, algorithms, patterns and programming paradigms, the experience is completely different to what I do day to day it's genuinely refreshing.
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## Collaborations
-If you're working on something, even if it's just for fun, and you think I would be interested, just shoot me a message. I'm looking to work on bigger projects in my free time that aren't just basic TODO or CRUD apps, I really want to challenge myself more. 
+## Frameworks
 
-## Hobbies
-### :movie_camera: :clapper: :tv:
-Not to sound too boring, but I do love my TV shows, anime and movies. I built my dream home cinema and gaming setup with a huge OLED TV as the centrepiece so I can sit back and really appreciate my favourite works of art. It's good to sit back and properly appreciate other forms of art (yes, coding is art) instead of always creating it.
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Expo|79](https://img.shields.io/badge/expo-1C1E24.svg?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
-### :muscle:
-Regular gym attendee when I can be bothered :joy: I'm trying to keep fit and healthy! One downside of working from home is how little exercise you can get if you don't actively make an effort. I've invested in some gym equipment, bought a standing desk, sticking to a Keto based diet with meal prep and intermittent fasting for planning my meals.
+## Databases
 
-I'm going to make this the year I get absolutely shredded! 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-%23000000?style=for-the-badge&logo=drizzle&logoColor=C5F74F) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-### :airplane:
-One thing I definitely want to do is to travel more, there is so much of the world I haven't experienced, which is something I'm going to actively change soon. I'm a huge foodie too, I want to travel to try as many cuisines cooked in their native lands.
+## Testing
 
-### :car: 
-Not just abroad but Scotland :scotland: (greatest county on earth!) too, there's so much natural beauty here, just a few hours drive from where I stay and I've never experienced it. I'm going to make plans for weekend getaways to experience more of what home has to offer. 
+![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
 
-## Outro
-Well, that's all about me, I know this is probably significantly longer than what any GitHub profile should ever be but just making everything a one line bullet point is so boring, I didn't want to do that. I feel as if this should be more personal, It should be a friendly conversation, so you get to know how I am more. 
+## APIs
 
-I would appreciate it if you gave my blog a follow and my social media channels as I want to start creating content for fun, I hope you enjoyed reading this! 
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Swagger|110](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white)
 
-Feel free to reach out if you have any questions.
+## Tools
+
+ ![Vite|75](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![D3.js](https://img.shields.io/badge/D3.JS-%23000000?style=for-the-badge&logo=D3&logoColor=#ff823e) ![Biome](https://img.shields.io/badge/biome-%2360A5FA.svg?style=for-the-badge&logo=biome&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+## CI/CD
+
+ ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+## AI
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+
+## Cloud
+
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+## Want to Learn
+
+I would love for the opportunity to learn the following in a professional environment.
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![WebAssembly](https://img.shields.io/badge/webassembly-%23654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white)
+
+## Hobby
+
+When I'm not doing any professional development in my core skill set I love to make small games and do a little graphic programming.
+
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## Home Cloud
+
+I use my Raspberry PI as a small home cloud provider running key services I need to keep all my files private and synced to all my devices.
+
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+# Professional Experience
+
+Currently, I am a Senior Full Stack Developer, most of my professional experience has been within the JS/TS ecosystem, primarily working with small to mid-size companies.
+
+If you want more details about my professional experience you can find it [here](https://mobeenaftab.uk/hireme), feel free to send me a message if you want to hire me to solve difficult problems.
+
+# For Fun
+
+Recently, I've been playing around with Raylib (C++ graphics library) and Godot a lot. I started programming when I was a teen because I was interested in learning how to make games.
+
+# Collaborations
+
+If you're working on something, even if it's just for fun, and you think I would be interested, just shoot me a message. I'm looking to work on bigger projects in my free time that aren't just basic TODO or CRUD apps, I really want to challenge myself more.
